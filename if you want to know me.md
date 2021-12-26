@@ -1,0 +1,4 @@
+- 👋 Hi, I’m sibzamani
+- 👀 I’m interested in web and machine learning
+- 🌱 I’m currently learning javascript and python
+- 💞️live in iran
